@@ -1,0 +1,10 @@
+.gradle
+*.iml
+.idea/
+bin/
+gen/
+out/
+build/
+local.properties
+
+.classpath
